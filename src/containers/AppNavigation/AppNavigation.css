@@ -1,0 +1,12 @@
+#logo {
+  max-width: 20vw;
+  justify-content: space-between;
+}
+
+#page_header_text {
+  margin-left: 10px;
+}
+
+#bottom_navigation {
+  background-color: #EEC759;
+}

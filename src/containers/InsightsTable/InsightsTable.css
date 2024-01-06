@@ -1,0 +1,8 @@
+#post_cell {
+  display: flex;
+  flex-direction: row;
+}
+
+#post_cell > img {
+  margin-right: 10px;
+}

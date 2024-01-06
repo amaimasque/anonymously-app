@@ -1,0 +1,8 @@
+#post_container {
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+#post_container:hover {
+  cursor: pointer;
+}
